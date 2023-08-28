@@ -1,0 +1,44 @@
+header {
+  background-image: url(../Images/bg-2.jpg);
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.head {
+  color: white;
+  text-align: center;
+  padding: 150px;
+}
+.fontstyle {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+p {
+  font-size: 13px;
+}
+.head-1 {
+  text-align: center;
+}
+.nav-light {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgb(212, 219, 225);
+  border-radius: 10px;
+}
+.nav-link {
+  color: black !important;
+}
+.nav-link:hover {
+  color: red !important;
+}
+.logoh {
+  mix-blend-mode: hard-light;
+}
+.main-1 {
+  color: white !important;
+}
+.btn:hover {
+  border-bottom: red !important;
+}
